@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+models/*.keras
+models/*.h5
+models/*.png
+!models/.gitkeep
+data/*.json
+!data/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
