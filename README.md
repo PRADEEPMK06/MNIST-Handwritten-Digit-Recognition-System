@@ -144,7 +144,7 @@ A well-trained CNN on MNIST can typically achieve approximately **98–99% test 
 
 ## Author
 
-**Pradeep M K**
+**Pixel Glitchers**
 
 ## GitHub Repository
 
